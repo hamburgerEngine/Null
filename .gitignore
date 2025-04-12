@@ -34,3 +34,5 @@ Release/PhloxEngine.vcxproj.FileListAbsolute.txt
 *.nacp
 *.nro
 /build
+*.nso
+*.npdm
