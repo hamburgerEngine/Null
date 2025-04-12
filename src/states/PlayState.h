@@ -4,7 +4,6 @@
 #include <engine/Sprite.h>
 #include <core/Paths.h>
 #include <engine/Containers.h>
-#include <direct.h>
 
 namespace States
 {

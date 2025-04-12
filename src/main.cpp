@@ -2,7 +2,9 @@
 #include <states/TitleState.h>
 #include <states/PlayState.h>
 #include <SDL2/SDL.h>
+#ifdef _WIN32
 #undef main
+#endif
 
 Engine::Maindothx launch = {
     "Null Engine",

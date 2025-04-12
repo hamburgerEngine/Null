@@ -3,8 +3,8 @@
 namespace Engine
 {
     State* curState;
-    SDL_Window* Engine::window = nullptr;
-    SDL_Renderer* Engine::renderer = nullptr;
+    SDL_Window* window = nullptr;
+    SDL_Renderer* renderer = nullptr;
     int transX = 0, transY = -720;
     bool switcharoo = false, shouldUpdate = true;
 

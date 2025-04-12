@@ -23,6 +23,8 @@ namespace Engine
     };
 
     extern State* curState;
+    extern SDL_Window* window;
+    extern SDL_Renderer* renderer;
     void switchState(State* state);
     void render(Engine::Basic* object);
     // This will initialize the main SDL window.
