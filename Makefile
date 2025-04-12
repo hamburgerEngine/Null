@@ -43,6 +43,12 @@ DATA		:=	data
 INCLUDES	:=	src src/engine src/core src/states src/audio
 ROMFS	:=	romfs
 
+APP_TITLE := "Null Engine"
+APP_AUTHOR := "maybekoi"
+APP_VERSION := "1.0.0"
+APP_TITLEID := "01202E343DEF431F" # haha nintendo authoring editor go brr
+ICON := assets/images/flixel.jpg
+
 #---------------------------------------------------------------------------------
 # options for code generation
 #---------------------------------------------------------------------------------
