@@ -1,0 +1,29 @@
+﻿<TextureAtlas imagePath="sticknshmoove.png">
+	<SubTexture name="idle0000" x="0" y="0" width="138" height="173" frameX="-2" frameY="0" frameWidth="152" frameHeight="175"/>
+	<SubTexture name="idle0001" x="0" y="0" width="138" height="173" frameX="-2" frameY="0" frameWidth="152" frameHeight="175"/>
+	<SubTexture name="idle0002" x="138" y="0" width="134" height="170" frameX="-2" frameY="-3" frameWidth="152" frameHeight="175"/>
+	<SubTexture name="idle0003" x="138" y="0" width="134" height="170" frameX="-2" frameY="-3" frameWidth="152" frameHeight="175"/>
+	<SubTexture name="idle0004" x="272" y="0" width="139" height="164" frameX="-2" frameY="-11" frameWidth="152" frameHeight="175"/>
+	<SubTexture name="idle0005" x="272" y="0" width="139" height="164" frameX="-2" frameY="-11" frameWidth="152" frameHeight="175"/>
+	<SubTexture name="idle0006" x="411" y="0" width="142" height="157" frameX="0" frameY="-18" frameWidth="152" frameHeight="175"/>
+	<SubTexture name="idle0007" x="411" y="0" width="142" height="157" frameX="0" frameY="-18" frameWidth="152" frameHeight="175"/>
+	<SubTexture name="idle0008" x="553" y="0" width="142" height="164" frameX="-2" frameY="-11" frameWidth="152" frameHeight="175"/>
+	<SubTexture name="idle0009" x="553" y="0" width="142" height="164" frameX="-2" frameY="-11" frameWidth="152" frameHeight="175"/>
+	<SubTexture name="idle0010" x="695" y="0" width="150" height="166" frameX="-2" frameY="-7" frameWidth="152" frameHeight="175"/>
+	<SubTexture name="idle0011" x="695" y="0" width="150" height="166" frameX="-2" frameY="-7" frameWidth="152" frameHeight="175"/>
+	<SubTexture name="walkCycle0000" x="845" y="0" width="107" height="152" frameX="-8" frameY="-6" frameWidth="122" frameHeight="171"/>
+	<SubTexture name="walkCycle0001" x="845" y="0" width="107" height="152" frameX="-8" frameY="-6" frameWidth="122" frameHeight="171"/>
+	<SubTexture name="walkCycle0002" x="0" y="173" width="113" height="143" frameX="-4" frameY="-24" frameWidth="122" frameHeight="171"/>
+	<SubTexture name="walkCycle0003" x="0" y="173" width="113" height="143" frameX="-4" frameY="-24" frameWidth="122" frameHeight="171"/>
+	<SubTexture name="walkCycle0004" x="113" y="173" width="109" height="150" frameX="-6" frameY="-16" frameWidth="122" frameHeight="171"/>
+	<SubTexture name="walkCycle0005" x="222" y="173" width="109" height="150" frameX="-6" frameY="-16" frameWidth="122" frameHeight="171"/>
+	<SubTexture name="walkCycle0006" x="331" y="173" width="101" height="168" frameX="-10" frameY="0" frameWidth="122" frameHeight="171"/>
+	<SubTexture name="walkCycle0007" x="331" y="173" width="101" height="168" frameX="-10" frameY="0" frameWidth="122" frameHeight="171"/>
+	<SubTexture name="walkCycle0008" x="432" y="173" width="111" height="157" frameX="-5" frameY="-9" frameWidth="122" frameHeight="171"/>
+	<SubTexture name="walkCycle0009" x="543" y="173" width="122" height="145" frameX="0" frameY="-26" frameWidth="122" frameHeight="171"/>
+	<SubTexture name="walkCycle0010" x="543" y="173" width="122" height="145" frameX="0" frameY="-26" frameWidth="122" frameHeight="171"/>
+	<SubTexture name="walkCycle0011" x="665" y="173" width="118" height="153" frameX="-2" frameY="-15" frameWidth="122" frameHeight="171"/>
+	<SubTexture name="walkCycle0012" x="665" y="173" width="118" height="153" frameX="-2" frameY="-15" frameWidth="122" frameHeight="171"/>
+	<SubTexture name="walkCycle0013" x="783" y="173" width="101" height="168" frameX="-10" frameY="0" frameWidth="122" frameHeight="171"/>
+	<SubTexture name="walkCycle0014" x="783" y="173" width="101" height="168" frameX="-10" frameY="0" frameWidth="122" frameHeight="171"/>
+</TextureAtlas>

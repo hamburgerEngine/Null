@@ -24,7 +24,6 @@ Release/PhloxEngine.vcxproj.FileListAbsolute.txt
 *.txt
 /x64
 /Debug
-/assets
 /src/funkin
 /src/antilogic
 /bin
